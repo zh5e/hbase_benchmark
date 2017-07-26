@@ -1,0 +1,25 @@
+nohup: ignoring input
+连接hbase thrift成功连接hbase thrift成功
+
+start write
+start write
+连接hbase thrift成功
+start write
+连接hbase thrift成功
+start write
+连接hbase thrift成功
+start write
+连接hbase thrift成功
+start write
+105 132.224.229.13:9090 cost: 915 size: 41943040000 byte
+106 132.224.229.13:9090 43.7158 m/sec
+105 132.224.229.13:9090 cost: 918 size: 41943040000 byte
+106 132.224.229.13:9090 43.573 m/sec
+105 132.224.229.15:9090 cost: 925 size: 41943040000 byte
+106 132.224.229.15:9090 43.2432 m/sec
+105 132.224.229.15:9090 cost: 926 size: 41943040000 byte
+106 132.224.229.15:9090 43.1965 m/sec
+105 132.224.229.14:9090 cost: 950 size: 41943040000 byte
+106 132.224.229.14:9090 42.1053 m/sec
+105 132.224.229.14:9090 cost: 950 size: 41943040000 byte
+106 132.224.229.14:9090 42.1053 m/sec
